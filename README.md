@@ -2,7 +2,7 @@
 
 ![Whirlpool MP](https://cdn.discordapp.com/attachments/978814793072906291/1351933201840341115/Screenshot_2025-03-19_at_10.59.36_AM.png?ex=67dc2d69&is=67dadbe9&hm=ba8cc4d3189d216c7aeb57af97b2764b78a76220200bcea4a9207545422d7884&)
 
-![Preview](https://media.giphy.com/media/eL2g3fOCVUBUZhpw59/giphy.gif)
+![Preview](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lnNHo5cWd4YjN4aTg2b3Vpamx1YWNjem95NWh2YmMxbTVvZGdveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxY4QNBmMOt8wlzKM/giphy.gif)
 
 # [Join our Discord](https://discord.gg/TZWqWdeTm8)
 
