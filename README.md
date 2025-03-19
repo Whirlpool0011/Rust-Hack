@@ -101,3 +101,10 @@
 
 # [Join our Discord](https://discord.gg/TZWqWdeTm8)
 
+---
+
+🚀 Disclaimer
+This software is for educational and research purposes only. We do not condone or support cheating in any form.
+
+---
+
