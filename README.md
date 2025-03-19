@@ -2,7 +2,7 @@
 
 ![Whirlpool MP](https://cdn.discordapp.com/attachments/978814793072906291/1351933201840341115/Screenshot_2025-03-19_at_10.59.36_AM.png?ex=67dc2d69&is=67dadbe9&hm=ba8cc4d3189d216c7aeb57af97b2764b78a76220200bcea4a9207545422d7884&)
 
-[Join our Discord](https://discord.gg/TZWqWdeTm8)
+# [Join our Discord](https://discord.gg/TZWqWdeTm8)
 
 ## Features
 
@@ -97,5 +97,5 @@
 - Menu Theme
 - Crosshair Outline (Spacing, Thickness, and Color)
 
-[Join our Discord](https://discord.gg/TZWqWdeTm8)
+# [Join our Discord](https://discord.gg/TZWqWdeTm8)
 
